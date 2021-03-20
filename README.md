@@ -1,6 +1,6 @@
 
 
-# Case Study Title 
+# JP Morgan’s Financial Solutions Lab 
 
 ## Description: 
 
